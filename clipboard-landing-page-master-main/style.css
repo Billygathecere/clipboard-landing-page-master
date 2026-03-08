@@ -91,7 +91,7 @@ footer.Cliplogo{
 
 h2{
    font-family: 'Times New Roman', Times, serif;
-   font-size:large;
+   font-size:x-large;
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -126,7 +126,7 @@ h2{
      margin-right: 20px;
 }
 
-.IBM-icon{
+.iBM-icon{
      margin-right: 20px;
      margin-right: 20px;
 }
